@@ -1,6 +1,6 @@
 # Desafio_Estagio_Solvimm
 Código usado para resolver os exercícios para vaga de estágio em dados da Solvimm.
-O exercício compunha de 6 perguntas sobre dois datasets ('movies.csv' e 'customer_rating.csv')
+O exercício compunha de 6 perguntas sobre dois datasets ('movies.csv' e 'customer_rating.csv') a serem respondidas pela EDA.
 
 ## O código foi todo realizado pelo google colaboratory:
 https://colab.research.google.com/.
